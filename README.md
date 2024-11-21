@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Build a HomeLab</b>
+- <b>Active Directory HomeLab</b>
   - 
 - <b>Wireshark</b>
   - 

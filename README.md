@@ -4,11 +4,11 @@
 
 - <b>Active Directory HomeLab</b>
   - 
-- <b>Wireshark</b>
+- <b>Setup Intrusion Detection System</b>
   - 
 - <b>Setup a VPN Connection</b>
   - 
-- <b>Setup a firewall</b>
+- <b>Setup a Firewall</b>
   - 
 
 <h2> 📜Certifications: </h2>
